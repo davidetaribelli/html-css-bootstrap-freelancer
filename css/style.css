@@ -19,4 +19,12 @@
 
 .bg_footer_up   {background-color: #3a546d;}
 
+.card_{
+    cursor: pointer;
+    transition: 0.3s;
+}
 
+.card_:hover img{
+    transform: scale(1.1);
+    filter:brightness(50%)
+}

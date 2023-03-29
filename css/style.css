@@ -12,6 +12,10 @@
     color: #333333;
 }
 
+.color_cyan{
+    color: #1abc9c;
+}
+
 .bg_cyan{
     background-color: #1abc9c;
 }
@@ -50,7 +54,6 @@
 /* portfolio */
 
 
-
 /* about */
 
 /* contact me */
@@ -61,11 +64,6 @@
 /* footer up */
 .bg_footer_up{
     background-color: #3a546d;
-}
-
-.bg_footer_up .col-3{
-    min-height: 160px;
-    background-color: chocolate;
 }
 
 .bg_footer_down{

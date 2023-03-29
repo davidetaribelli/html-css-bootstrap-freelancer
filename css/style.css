@@ -66,17 +66,9 @@
 }
 
 /* about */
-.paragraph_{
-    min-height: 185px;
-    background-color: darkgreen;
-    border: 1px solid white;
-}
 
 /* contact me */
-.contact_{
-    min-height: 67px;
-    background-color: darkorange;
-}
+
 
 /* FOOTER */
 
